@@ -1,0 +1,11 @@
+ul{
+
+}
+
+li {
+  transition: all .35s ease-in-out 0s;
+}
+
+li.active{
+  color: red;
+}
